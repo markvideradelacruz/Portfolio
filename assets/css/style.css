@@ -98,3 +98,9 @@ h1#title-projects{
 .wrapper4{
 	min-height: 500px;
 }
+
+@media only screen and (max-device-width:480px){
+	h1{
+		color:yellow;
+	}
+}
